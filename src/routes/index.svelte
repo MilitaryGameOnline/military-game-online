@@ -1,2 +1,7 @@
-<h1>Welcome to Military game online</h1>
-<p>Page still under construction</p>
+<script>
+	import Main from '../main_components/Main.svelte';
+</script>
+
+<Main>
+
+</Main>
