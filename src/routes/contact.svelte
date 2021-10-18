@@ -3,6 +3,6 @@
 </script>
 
 <Main>
-	<h1>Welcome to Military game online</h1>
-	<p>Page still under construction</p>
+	<h1>Contact</h1>
+	<p>Find me on github</p>
 </Main>

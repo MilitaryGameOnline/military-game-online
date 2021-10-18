@@ -5,15 +5,21 @@
 
 <div class='main'>
 <Header />
-
-	<h1>Welcome to Military game online</h1>
-	<p>Page still under construction</p>
-
+	<div class='content'>
+		<slot />
+	</div>
 </div>
 <Footer />
 
 <style>
 	.main {
       min-height: 100vh;
+	}
+	.content{
+			padding: 5px 20px;
+	}
+
+	:global(body) {
+			margin: 0px;
 	}
 </style>

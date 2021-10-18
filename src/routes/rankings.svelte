@@ -3,6 +3,9 @@
 </script>
 
 <Main>
-	<h1>Welcome to Military game online</h1>
-	<p>Page still under construction</p>
+	<h1>Rankings</h1>
+	<ol>
+		<li>Me</li>
+		<li>You</li>
+	</ol>
 </Main>

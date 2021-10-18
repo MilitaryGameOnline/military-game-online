@@ -1,8 +1,8 @@
 <header>
-	<div>Home</div>
-	<div>Play</div>
-	<div>Rankings</div>
-	<div>Info</div>
+	<div><a href="/">Home</a></div>
+	<div><a href="/play">Play</a></div>
+	<div><a href="/rankings">Rankings</a></div>
+	<div><a href="/info">Info</a></div>
 </header>
 
 <style>

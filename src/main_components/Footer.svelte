@@ -1,6 +1,6 @@
 <footer>
-	<div>Contact</div>
-	<div>Github</div>
+	<div><a href="/contact">Contact</a></div>
+	<div><a href="https://github.com/MilitaryGameOnline">Github</a></div>
 </footer>
 
 <style>
