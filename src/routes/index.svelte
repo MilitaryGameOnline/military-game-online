@@ -1,8 +1,3 @@
-<script>
-	import Main from '../main_components/Main.svelte';
-</script>
 
-<Main>
-	<h1>Welcome to Military game online</h1>
-	<p>Page still under construction</p>
-</Main>
+<h1>Welcome to Military game online</h1>
+<p>Page still under construction</p>
