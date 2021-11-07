@@ -49,10 +49,27 @@
 			<tr>
 				{#each row as tileTypeId}
 					<td>
-						{tileTypes[tileTypeId].name}
+						<div>
+							{tileTypes[tileTypeId].name}
+						</div>
 					</td>
 				{/each}
 			</tr>
 		{/each}
 	</table>
 {/await}
+
+<style>
+	td {
+			padding: 0px;
+	}
+
+	td > div {
+		width: 50px;
+		height: 50px;
+		border: solid brown 1px;
+		word-wrap:break-word;
+		overflow:hidden;
+		text-align: center;
+	}
+</style>
